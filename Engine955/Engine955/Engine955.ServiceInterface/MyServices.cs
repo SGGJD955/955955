@@ -7,7 +7,7 @@ namespace Engine955.ServiceInterface
     {
         public object Any(Hello request)
         {
-            return new HelloResponse { Result = $"Hello, {request.Name}!" };
+            return new HelloResponse { Result = $"Hello, {request.Name}!00000" };
         }
     }
 }
