@@ -10,7 +10,7 @@ namespace Engine955.ServiceModel.FindRoute
 
     //GET操作示例
 
-    [Route("/FindRoute/{Name}")]
+    [Route("/FindRoute/Execute/{Name}")]
     public class FindRouteRequest : IReturn<FindRouteResponse>
     {
         
