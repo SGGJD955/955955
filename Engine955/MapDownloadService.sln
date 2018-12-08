@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService1", "WindowsService1\WindowsService1\WindowsService1.csproj", "{CF36BF58-D08F-425A-9A6A-D0A86C506110}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{6814CF10-F19B-420A-8DF4-64AAD341D29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angels.Application.Data", "Angels.Application.Data\Angels.Application.Data.csproj", "{F943035B-43B3-4943-9E07-ACDEB091271A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angels.Application.Service", "Angels.Application.Service\Angels.Application.Service.csproj", "{84CBA961-CFCF-43F0-9C5B-4228949BC7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angels.Application.Service.Host", "Angels.Application.Service.Host\Angels.Application.Service.Host.csproj", "{D26DADE1-3ECA-4DA6-AB96-FA1403560B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angels.Application.TicketEntity", "Angels.Application.TicketEntity\Angels.Application.TicketEntity.csproj", "{16F7DB9A-5B5D-4D86-99BE-545CAA7B84C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angels.Common", "Angels.Common\Angels.Common.csproj", "{CF2030B5-6E0E-4393-ADF5-D0A6C8AB82F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF36BF58-D08F-425A-9A6A-D0A86C506110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF36BF58-D08F-425A-9A6A-D0A86C506110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF36BF58-D08F-425A-9A6A-D0A86C506110}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF36BF58-D08F-425A-9A6A-D0A86C506110}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F943035B-43B3-4943-9E07-ACDEB091271A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F943035B-43B3-4943-9E07-ACDEB091271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F943035B-43B3-4943-9E07-ACDEB091271A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F943035B-43B3-4943-9E07-ACDEB091271A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{84CBA961-CFCF-43F0-9C5B-4228949BC7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CBA961-CFCF-43F0-9C5B-4228949BC7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CBA961-CFCF-43F0-9C5B-4228949BC7E5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CBA961-CFCF-43F0-9C5B-4228949BC7E5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D26DADE1-3ECA-4DA6-AB96-FA1403560B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26DADE1-3ECA-4DA6-AB96-FA1403560B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26DADE1-3ECA-4DA6-AB96-FA1403560B25}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26DADE1-3ECA-4DA6-AB96-FA1403560B25}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{16F7DB9A-5B5D-4D86-99BE-545CAA7B84C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F7DB9A-5B5D-4D86-99BE-545CAA7B84C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F7DB9A-5B5D-4D86-99BE-545CAA7B84C9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F7DB9A-5B5D-4D86-99BE-545CAA7B84C9}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CF2030B5-6E0E-4393-ADF5-D0A6C8AB82F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2030B5-6E0E-4393-ADF5-D0A6C8AB82F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2030B5-6E0E-4393-ADF5-D0A6C8AB82F3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2030B5-6E0E-4393-ADF5-D0A6C8AB82F3}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16F7DB9A-5B5D-4D86-99BE-545CAA7B84C9} = {6814CF10-F19B-420A-8DF4-64AAD341D29B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B9EF5E-C558-4D0E-9CAD-1E8B1F3850E8}
+	EndGlobalSection
+EndGlobal
