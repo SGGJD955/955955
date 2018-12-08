@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{16F7DB9A-5B5D-4D86-99BE-545CAA7B84C9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Angels.Application.TicketEntity</RootNamespace>
+    <AssemblyName>Angels.Application.TicketEntity</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>bin\Debug\Angels.Application.TicketEntity.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ServiceStack, Version=5.0.0.0, Culture=neutral, PublicKeyToken=02c12cbda47e6587, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.5.1.0\lib\net45\ServiceStack.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Client, Version=5.0.0.0, Culture=neutral, PublicKeyToken=02c12cbda47e6587, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Client.5.1.0\lib\net45\ServiceStack.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Common, Version=5.0.0.0, Culture=neutral, PublicKeyToken=02c12cbda47e6587, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Common.5.1.0\lib\net45\ServiceStack.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=02c12cbda47e6587, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Interfaces.5.1.0\lib\net45\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Text, Version=5.0.0.0, Culture=neutral, PublicKeyToken=02c12cbda47e6587, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Text.5.1.0\lib\net45\ServiceStack.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\BaiduMapTileDownload\CoordTransferHelper.cs" />
+    <Compile Include="Common\BaiduMapTileDownload\LatLngPoint.cs" />
+    <Compile Include="Common\BuildVRT\VRTDataset.cs" />
+    <Compile Include="Common\TaskLogEntity.cs" />
+    <Compile Include="Common\ThreadTaskLogEntity.cs" />
+    <Compile Include="Common\WebmapDownloader\CC.cs" />
+    <Compile Include="Common\WebmapDownloader\CoordTransferHelper.cs" />
+    <Compile Include="Common\WebmapDownloader\LatLngPoint.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Request\BMapTileDownload\BaiduMapTileDownloadRequest.cs" />
+    <Compile Include="Request\BuildVRT\BuildVRTByTileRequest.cs" />
+    <Compile Include="Request\BuildVRT\IndexToRGBRequest.cs" />
+    <Compile Include="Request\ImageMosaic\BaiduTileSplicingResult.cs" />
+    <Compile Include="Request\ImageMosaic\GaodeErzhihuaRequest.cs" />
+    <Compile Include="Request\ImageMosaic\GaodeTileSplicingResult.cs" />
+    <Compile Include="Request\Log\LogDeleteRequest.cs" />
+    <Compile Include="Request\Log\LogReadRequest.cs" />
+    <Compile Include="Request\MapFeatureDownload\BaiduMapFeatureDownloadResult.cs" />
+    <Compile Include="Request\MapFeatureDownload\GaodeMapFeatureDownloadResult.cs" />
+    <Compile Include="Request\TicketRequest.cs" />
+    <Compile Include="Request\WebmapDownloader\Amap_POIRequest.cs" />
+    <Compile Include="Request\WebmapDownloader\Amap_TileRequest.cs" />
+    <Compile Include="Request\WebmapDownloader\Baidumap_BuildingTileRequest.cs" />
+    <Compile Include="Request\WebmapDownloader\Baidumap_POIRequest.cs" />
+    <Compile Include="Request\WebmapDownloader\Baidumap_TileRequest.cs" />
+    <Compile Include="Request\WebmapDownloader\Mapbar_POIRequest.cs" />
+    <Compile Include="Request\WebmapDownloader\ScheduleDataRequest.cs" />
+    <Compile Include="Request\WebmapDownloader\TaskStop.cs" />
+    <Compile Include="Response\TicketResponse.cs" />
+    <Compile Include="Response\WebApiResult.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
