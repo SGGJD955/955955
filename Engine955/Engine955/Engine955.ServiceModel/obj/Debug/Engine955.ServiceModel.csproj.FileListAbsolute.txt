@@ -1,0 +1,16 @@
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\Engine955.ServiceModel.dll
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\Engine955.ServiceModel.pdb
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\obj\Debug\Engine955.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\obj\Debug\Engine955.ServiceModel.dll
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\obj\Debug\Engine955.ServiceModel.pdb
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\obj\Debug\Engine955.ServiceModel.csprojResolveAssemblyReference.cache
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.Client.dll
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.Common.dll
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.dll
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.Text.dll
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.xml
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.Client.xml
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.Common.xml
+D:\Junde3dEngine\Engine955\Engine955\Engine955.ServiceModel\bin\Debug\ServiceStack.Text.xml

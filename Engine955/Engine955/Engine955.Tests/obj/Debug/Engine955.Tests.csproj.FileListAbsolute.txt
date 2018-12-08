@@ -1,0 +1,2 @@
+D:\Junde3dEngine\Engine955\Engine955\Engine955.Tests\obj\Debug\Engine955.Tests.csprojResolveAssemblyReference.cache
+D:\Junde3dEngine\Engine955\Engine955\Engine955.Tests\obj\Debug\Engine955.Tests.csproj.CoreCompileInputs.cache
