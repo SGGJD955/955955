@@ -1,0 +1,11 @@
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Release\Angels.Application.Data.dll.config
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Release\Angels.Application.Data.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Release\Angels.Application.Data.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Release\MySql.Data.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\obj\Release\Angels.Application.Data.csprojResolveAssemblyReference.cache
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\obj\Release\Angels.Application.Data.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\obj\Release\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\obj\Release\Angels.Application.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\obj\Release\Angels.Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\obj\Release\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\obj\Release\Angels.Application.Data.pdb

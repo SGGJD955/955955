@@ -1,0 +1,140 @@
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll.config
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Debug\Angels.Application.Data.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Debug\DBAccess.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Debug\MySql.Data.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\obj\Debug\Angels.Application.Data.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\obj\Debug\Angels.Application.Data.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\obj\Debug\Angels.Application.Data.csprojResolveAssemblyReference.cache
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Debug\Angels.Common.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Debug\Newtonsoft.Json.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Debug\Angels.Common.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\obj\Debug\Angels.Application.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\obj\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Data\obj\Debug\Angels.Application.Data.pdb
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Application.Data.pdb
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Common.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\bin\Debug\DBAccess.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\bin\Debug\MySql.Data.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\bin\Debug\Angels.Common.pdb
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\obj\Debug\Angels.Application.Data.csprojResolveAssemblyReference.cache
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\obj\Debug\Angels.Application.Data.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Data\obj\Debug\Angels.Application.Data.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Common.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\DBAccess.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\MySql.Data.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Common.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csprojResolveAssemblyReference.cache
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Data\obj\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Data\obj\Debug\Angels.Application.Data.pdb

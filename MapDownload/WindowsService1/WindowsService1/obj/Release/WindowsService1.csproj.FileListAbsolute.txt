@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\WindowsService1\WindowsService1\obj\Release\WindowsService1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\WindowsService1\WindowsService1\obj\Release\WindowsService1.WinServiceInstaller.resources
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\WindowsService1\WindowsService1\obj\Release\WindowsService1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\WindowsService1\WindowsService1\obj\Release\WindowsService1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service.Host\obj\Release\Angels.Application.Service.Host.csproj.CoreCompileInputs.cache

@@ -1,0 +1,1511 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Angels.Application.TicketEntity</name>
+    </assembly>
+    <members>
+        <member name="F:Angels.Application.TicketEntity.Common.BaiduMapTileDownload.CoordTransferHelper.array1">
+            <summary>
+            百度坐标系转换
+            </summary>
+        </member>
+        <member name="M:Angels.Application.TicketEntity.Common.BaiduMapTileDownload.CoordTransferHelper.LatLng2TileXY(Angels.Application.TicketEntity.Common.BaiduMapTileDownload.LatLngPoint,System.Int32)">
+            <summary>
+            高德坐标系转换
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.VRTDataset">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTDataset.Items">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTDataset.ItemsElementName">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTDataset.subClass">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTDataset.rasterXSize">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTDataset.rasterYSize">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.GCPListType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPListType.GCP">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPListType.Projection">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.GCPType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.Id">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.Info">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.Pixel">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.Line">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.X">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.Y">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.Z">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.ZSpecified">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.GCPZ">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GCPType.GCPZSpecified">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.SpectralBandType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SpectralBandType.SourceFilename">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SpectralBandType.SourceBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SpectralBandType.dstBand">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.SourceFilenameType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SourceFilenameType.relativeToVRT">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SourceFilenameType.Value">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ZeroOrOne">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ZeroOrOne.Item0">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ZeroOrOne.Item1">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.Item1">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.Item0">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.ON">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.OFF">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.on">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.off">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.YES">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.NO">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.yes">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.no">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.TRUE">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.FALSE">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.true">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.false">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.True">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OGRBooleanType.False">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.PanchroBandType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PanchroBandType.SourceFilename">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PanchroBandType.SourceBand">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.AlgorithmOptionsType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.AlgorithmOptionsType.Any">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType.Algorithm">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType.AlgorithmOptions">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType.Resampling">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType.NumThreads">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType.BitDepth">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType.NoData">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType.SpatialExtentAdjustment">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType.PanchroBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.PansharpeningOptionsType.SpectralBand">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.GDALWarpOptionsType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.GDALWarpOptionsType.Any">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.KernelType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.KernelType.Size">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.KernelType.Coefs">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.KernelType.normalized">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.KernelType.normalizedSpecified">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.KernelFilteredSourceType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.KernelFilteredSourceType.Items">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.KernelFilteredSourceType.ItemsElementName">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.KernelFilteredSourceType.resampling">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.RectType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.RectType.xOff">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.RectType.yOff">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.RectType.xSize">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.RectType.ySize">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.OpenOptionsType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OpenOptionsType.OOI">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.OOIType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OOIType.key">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OOIType.Value">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.SourcePropertiesType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SourcePropertiesType.RasterXSize">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SourcePropertiesType.RasterYSize">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SourcePropertiesType.DataType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SourcePropertiesType.BlockXSize">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SourcePropertiesType.BlockYSize">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.Byte">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.UInt16">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.Int16">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.UInt32">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.Int32">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.Float32">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.Float64">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.CInt16">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.CInt32">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.CFloat32">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.DataTypeType.CFloat64">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.ColorTableComponent">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.DstMax">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.DstMin">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.DstRect">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.Exponent">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.Kernel">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.LUT">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.NODATA">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.OpenOptions">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.ScaleOffset">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.ScaleRatio">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.SourceBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.SourceFilename">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.SourceProperties">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.SrcMax">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.SrcMin">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType3.SrcRect">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ComplexSourceType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ComplexSourceType.Items">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ComplexSourceType.ItemsElementName">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ComplexSourceType.resampling">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.ColorTableComponent">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.DstMax">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.DstMin">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.DstRect">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.Exponent">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.LUT">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.NODATA">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.OpenOptions">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.ScaleOffset">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.ScaleRatio">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.SourceBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.SourceFilename">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.SourceProperties">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.SrcMax">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.SrcMin">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType2.SrcRect">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.SimpleSourceType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SimpleSourceType.Items">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SimpleSourceType.ItemsElementName">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.SimpleSourceType.resampling">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType1">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType1.DstRect">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType1.OpenOptions">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType1.SourceBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType1.SourceFilename">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType1.SourceProperties">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType1.SrcRect">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.HistItemType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.HistItemType.Items">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.HistItemType.ItemsElementName">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType.Approximate">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType.BucketCount">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType.HistCounts">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType.HistMax">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType.HistMin">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType.IncludeOutOfRange">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.HistogramsType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.HistogramsType.HistItem">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.MaskBandType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.MaskBandType.VRTRasterBand">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandType.Items">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandType.ItemsElementName">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandType.dataType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandType.band">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.CategoryNamesType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.CategoryNamesType.Category">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Gray">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Palette">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Red">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Green">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Blue">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Alpha">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Hue">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Saturation">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Lightness">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Cyan">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Magenta">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Yellow">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Black">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.YCbCr_Y">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.YCbCr_Cb">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.YCbCr_Cr">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorInterpType.Undefined">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ColorTableType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorTableType.Entry">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ColorTableEntryType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorTableEntryType.c1">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorTableEntryType.c2">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorTableEntryType.c3">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorTableEntryType.c4">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ColorTableEntryType.c4Specified">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.MetadataType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.MetadataType.Any">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.MetadataType.domain">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.MetadataType.format">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.OverviewType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.OverviewType.Items">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandTypePixelFunctionArguments">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandTypePixelFunctionArguments.AnyAttr">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.AveragedSource">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.BufferRadius">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.ByteOrder">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.CategoryNames">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.ColorInterp">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.ColorTable">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.ComplexSource">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.Description">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.HideNoDataValue">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.Histograms">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.ImageOffset">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.KernelFilteredSource">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.LineOffset">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.MaskBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.Metadata">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.NoDataValue">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.NodataValue">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.Offset">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.Overview">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.PixelFunctionArguments">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.PixelFunctionCode">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.PixelFunctionLanguage">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.PixelFunctionType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.PixelOffset">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.Scale">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.SimpleSource">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.SourceFilename">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.SourceTransferType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType4.UnitType">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandSubClassType">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandSubClassType.VRTWarpedRasterBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandSubClassType.VRTDerivedRasterBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandSubClassType.VRTRawRasterBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.VRTRasterBandSubClassType.VRTPansharpenedRasterBand">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.BlockXSize">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.BlockYSize">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.GCPList">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.GDALWarpOptions">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.GeoTransform">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.MaskBand">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.Metadata">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.PansharpeningOptions">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.SRS">
+            <remarks/>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.BuildVRT.ItemsChoiceType5.VRTRasterBand">
+            <remarks/>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Common.TaskLogEntity">
+            <summary>
+            日志
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.GUID">
+            <summary>
+            唯一主键
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.Type">
+            <summary>
+            类型
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.Name">
+            <summary>
+            名称（功能名称等）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.Description">
+            <summary>
+            描述
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.DataInfo">
+            <summary>
+            数据详情（JSON数据格式）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.ErrorMsg">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.Parameter">
+            <summary>
+            参数实体
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.AddTime">
+            <summary>
+            添加时间
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.ErrorDate">
+            <summary>
+            报错时间
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.CompleteTime">
+            <summary>
+            完成时间
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.Status">
+            <summary>
+            未完成、进行中、错误、已完成
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.Count">
+            <summary>
+            总共多少条
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.Current">
+            <summary>
+            当前多少条
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.TaskLogEntity.SavePath">
+            <summary>
+            存储地址
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.ThreadTaskLogEntity.GUID">
+            <summary>
+            唯一ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.ThreadTaskLogEntity.TaskLog_GUID">
+            <summary>
+            任务ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.ThreadTaskLogEntity.Current">
+            <summary>
+            当前执行条数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.ThreadTaskLogEntity.Total">
+            <summary>
+            总计数量
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.ThreadTaskLogEntity.Status">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.ThreadTaskLogEntity.Current_loc">
+            <summary>
+            当前执行位置
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.ThreadTaskLogEntity.ErrorMsg">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.ThreadTaskLogEntity.AddTime">
+            <summary>
+            添加时间
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Common.ThreadTaskLogEntity.TStatus">
+            <summary>
+            状态代号（0初始 1进行中 2已完成 3错误 4暂停）
+            </summary>
+        </member>
+        <member name="F:Angels.Application.TicketEntity.Common.WebmapDownloader.CoordTransferHelper.array1">
+            <summary>
+            百度坐标系转换
+            </summary>
+        </member>
+        <member name="M:Angels.Application.TicketEntity.Common.WebmapDownloader.CoordTransferHelper.LatLng2TileXY(Angels.Application.TicketEntity.Common.WebmapDownloader.LatLngPoint,System.Int32)">
+            <summary>
+            高德坐标系转换
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest">
+            <summary>
+            百度瓦片地图个性化下载请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.GUID">
+            <summary>
+            请求唯一ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.LefttextBox">
+            <summary>
+            左坐标
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.BottomtextBox">
+            <summary>
+            底部坐标
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.RighttextBox">
+            <summary>
+            右部坐标
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.UptextBox">
+            <summary>
+            头部坐标
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.SavePathText">
+            <summary>
+            保存路径
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.LevelList">
+            <summary>
+            地图层级列表数组
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.LayerStr">
+            <summary>
+            图层信息拼接好的字符串
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.TaskCount">
+            <summary>
+            并行线程数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.BaiduMapTileDownloadRequest.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.BMapTileDownload.TreeNodeRequest">
+            <summary>
+            选中的节点信息（请求参数）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.TreeNodeRequest.Level">
+            <summary>
+            层级
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.TreeNodeRequest.Parent">
+            <summary>
+            父级节点
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BMapTileDownload.TreeNodeRequest.Text">
+            <summary>
+            节点文本信息
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.BuildVRT.BuildVRTByTileRequest">
+            <summary>
+            生成VRT请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BuildVRT.BuildVRTByTileRequest.defaultfolderpath">
+            <summary>
+            默认瓦片路径文件夹
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BuildVRT.BuildVRTByTileRequest.GUID">
+            <summary>
+            请求唯一ID
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.BuildVRT.IndexToRGBRequest">
+            <summary>
+            index转换RGB请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BuildVRT.IndexToRGBRequest.path">
+            <summary>
+            存放瓦片的文件夹路径
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.BuildVRT.IndexToRGBRequest.GUID">
+            <summary>
+            请求唯一ID
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.ImageMosaic.BaiduTileSplicingResult">
+            <summary>
+            百度瓦片拼接请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.BaiduTileSplicingResult.FilePath">
+            <summary>
+            文件路径（F:\\BaiduMap20171214\\GreenWater\\tiles\\17）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.BaiduTileSplicingResult.SavePath">
+            <summary>
+            保存路径（F:\\BaiduMap20171214\\GreenWater\\bigtiles\\17\\）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.BaiduTileSplicingResult.Size">
+            <summary>
+            拼接尺寸
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.BaiduTileSplicingResult.crstype">
+            <summary>
+            坐标系统
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.BaiduTileSplicingResult.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.BaiduTileSplicingResult.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeErzhihuaRequest">
+            <summary>
+            高德的图二值化请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeErzhihuaRequest.FilePath">
+            <summary>
+            文件路径
+            </summary>
+        </member>
+        <!-- 对于成员“P:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeErzhihuaRequest.IsRoad”忽略有格式错误的 XML 注释 -->
+        <member name="T:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeTileSplicingResult">
+            <summary>
+            高德瓦片拼接请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeTileSplicingResult.FilePath">
+            <summary>
+            文件路径（F:\\AMap20171110\\tiles\\17）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeTileSplicingResult.SavePath">
+            <summary>
+            保存路径（F:\\AMap20171110\\bigtiles\\17\\）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeTileSplicingResult.GUID">
+            <summary>
+            请求唯一ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeTileSplicingResult.Size">
+            <summary>
+            拼接尺寸
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeTileSplicingResult.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.ImageMosaic.GaodeTileSplicingResult.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.LogDeleteRequest.GUID">
+            <summary>
+            主键ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.FileDeleteRequest.Path">
+            <summary>
+            主键ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.OpenFolderRequest.Path">
+            <summary>
+            主键ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.LogReadRequest.GUID">
+            <summary>
+            读取条件
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.ThreadLogReadRequest.GUID">
+            <summary>
+            读取条件
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.LogSelectRequest.status">
+            <summary>
+            读取条件
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.ImportCityInformRequest.Name">
+            <summary>
+            城市中文名
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.ImportCityInformRequest.baiduId">
+            <summary>
+            百度Id
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.ImportCityInformRequest.baidupId">
+            <summary>
+            百度pId
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.ImportCityInformRequest.gaodeId">
+            <summary>
+            高德Id
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.ImportCityInformRequest.pinyin">
+            <summary>
+            城市拼音
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.Log.DeleteCityInformRequest.Names">
+            <summary>
+            Name组
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.MapFeatureDownload.BaiduMapFeatureDownloadResult">
+            <summary>
+            百度地图
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.BaiduMapFeatureDownloadResult.City">
+            <summary>
+            城市中文全名（如北京市）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.BaiduMapFeatureDownloadResult.LayerName">
+            <summary>
+            图层名称(如道路等图层)
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.BaiduMapFeatureDownloadResult.SavePathText">
+            <summary>
+            创建数据源文件路径
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.BaiduMapFeatureDownloadResult.GUID">
+            <summary>
+            请求唯一ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.BaiduMapFeatureDownloadResult.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.BaiduMapFeatureDownloadResult.TaskCount">
+            <summary>
+            线程数量
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.BaiduMapFeatureDownloadResult.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.GaodeMapFeatureDownloadResult.City">
+            <summary>
+            城市中文全名（如北京市）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.GaodeMapFeatureDownloadResult.LayerName">
+            <summary>
+            图层名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.GaodeMapFeatureDownloadResult.SavePathText">
+            <summary>
+            创建数据源文件路径
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.GaodeMapFeatureDownloadResult.GUID">
+            <summary>
+            请求唯一ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.GaodeMapFeatureDownloadResult.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.GaodeMapFeatureDownloadResult.TaskCount">
+            <summary>
+            线程数量
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.MapFeatureDownload.GaodeMapFeatureDownloadResult.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_POIRequest">
+            <summary>
+            高德网络地图下载器请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_POIRequest.City">
+            <summary>
+            城市中文全名（如武汉市）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_POIRequest.GUID">
+            <summary>
+            请求唯一ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_POIRequest.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_POIRequest.TaskCount">
+            <summary>
+            线程数量
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_POIRequest.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest">
+            <summary>
+            高德瓦片请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.LefttextBox">
+            <summary>
+            左坐标
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.BottomtextBox">
+            <summary>
+            底部坐标
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.RighttextBox">
+            <summary>
+            右部坐标
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.UptextBox">
+            <summary>
+            头部坐标
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.GUID">
+            <summary>
+            请求唯一ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.SavePathText">
+            <summary>
+            保存路径 "E:\\AMap20171110\\tiles";
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.LayerStr">
+            <summary>
+            图层信息拼接好的字符串
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.TaskCount">
+            <summary>
+            并行线程数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Amap_TileRequest.LevelList">
+            <summary>
+            地图层级列表数组
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_BuildingTileRequest">
+            <summary>
+            百度建筑瓦片请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_BuildingTileRequest.startcoord">
+            <summary>
+            开始坐标--恩施--29.120116, 108.374308
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_BuildingTileRequest.endcoord">
+            <summary>
+            结束坐标--恩施--31.402847, 110.649141
+            </summary>
+        </member>
+        <!-- 对于成员“P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_BuildingTileRequest.originlink”忽略有格式错误的 XML 注释 -->
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_BuildingTileRequest.SavePathText">
+            <summary>
+            保存路径E:\\BaiduMap20171214\\GreenWater\\tiles
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_BuildingTileRequest.TaskCount">
+            <summary>
+            并行线程数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_BuildingTileRequest.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_BuildingTileRequest.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_POIRequest">
+            <summary>
+            百度POI请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_POIRequest.City">
+            <summary>
+            城市中文全名（如武汉市）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_POIRequest.GUID">
+            <summary>
+            请求任务唯一ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_POIRequest.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_POIRequest.TaskCount">
+            <summary>
+            线程数量
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_POIRequest.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_TileRequest">
+            <summary>
+            百度瓦片请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_TileRequest.startcoord">
+            <summary>
+            开始坐标39.865188, 116.3877
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_TileRequest.endcoord">
+            <summary>
+            结束坐标39.979655, 116.45749
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_TileRequest.GUID">
+            <summary>
+            唯一请求ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_TileRequest.SavePathText">
+            <summary>
+            保存路径E:\\BaiduMap\\Beijing\\DongCheng\\ALL\\tiles
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_TileRequest.TaskCount">
+            <summary>
+            并行线程数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_TileRequest.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Baidumap_TileRequest.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.WebmapDownloader.Mapbar_POIRequest">
+            <summary>
+            图吧网络地图下载器请求参数
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Mapbar_POIRequest.CityName">
+            <summary>
+            城市拼音（如wuhan）
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Mapbar_POIRequest.CityName_zh">
+            <summary>
+            城市中文名
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Mapbar_POIRequest.GUID">
+            <summary>
+            唯一ID
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Mapbar_POIRequest.TName">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Mapbar_POIRequest.TaskCount">
+            <summary>
+            线程数量
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.Mapbar_POIRequest.URL">
+            <summary>
+            接口链接
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.WebmapDownloader.ScheduleDataRequest">
+            <summary>
+            读取进度
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.ScheduleDataRequest.Key">
+            <summary>
+            读取进度的唯一GUID
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.Request.WebmapDownloader.TaskStop">
+            <summary>
+            任务暂停
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.Request.WebmapDownloader.TaskStop.GUID">
+            <summary>
+            唯一ID
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.TicketRequest">
+            <summary>
+            创建票据 请求实体
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.TicketResponse">
+            <summary>
+            创建票据响应数据实体
+            </summary>
+        </member>
+        <member name="T:Angels.Application.TicketEntity.OrderResponse">
+            <summary>
+            票据所属订单
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.WebApiResult`1.success">
+            <summary>
+            請求及執行是否成功
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.WebApiResult`1.msg">
+            <summary>
+            返回提示内容
+            </summary>
+        </member>
+        <member name="P:Angels.Application.TicketEntity.WebApiResult`1.results">
+            <summary>
+            该属性包含返回的结果列表
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,196 @@
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CopyComplete
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\源码\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojResolveAssemblyReference.cache
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojResolveAssemblyReference.cache
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.XML
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\obj\Debug\Angels.Application.TicketEntity.pdb

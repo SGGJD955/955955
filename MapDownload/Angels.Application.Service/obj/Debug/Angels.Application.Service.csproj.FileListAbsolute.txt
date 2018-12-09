@@ -1,0 +1,323 @@
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Common.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\gdalconst_csharp.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\gdal_csharp.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\MySql.Data.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ogr_csharp.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\osr_csharp.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\DBAccess.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojResolveAssemblyReference.cache
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\gdalconst_csharp.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\gdal_csharp.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ogr_csharp.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\osr_csharp.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\code - revise\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CopyComplete
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Common.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\gdalconst_csharp.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\gdal_csharp.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\MySql.Data.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ogr_csharp.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\osr_csharp.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\DBAccess.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojResolveAssemblyReference.cache
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+C:\Users\xlwang\Desktop\code - revise\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Common.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\gdalconst_csharp.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\gdal_csharp.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\MySql.Data.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ogr_csharp.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\osr_csharp.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\DBAccess.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojResolveAssemblyReference.cache
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+C:\Users\xlwang\Desktop\code - revise - 2.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\gdalconst_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\gdal_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ogr_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\osr_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\code - revise - 2.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\gdalconst_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\gdal_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ogr_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\osr_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\code - revise - 3.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\gdalconst_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\gdal_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ogr_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\osr_csharp.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\code - revise - 4.0\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\WindowsService1\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll.config
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Application.Service.pdb
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Common.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.Client.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.Common.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.Text.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\DBAccess.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Application.Data.pdb
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Application.Data.dll.config
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.pdb
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Application.TicketEntity.xml
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Angels.Common.pdb
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.xml
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.Client.xml
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.Common.xml
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\bin\Debug\ServiceStack.Text.xml
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\obj\Debug\Angels.Application.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\obj\Debug\Angels.Application.Service.csproj.CopyComplete
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\obj\Debug\Angels.Application.Service.dll
+C:\Users\Administrator\source\repos\955955\Engine955\Angels.Application.Service\obj\Debug\Angels.Application.Service.pdb

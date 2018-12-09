@@ -1,0 +1,9 @@
+D:\webPro\众源测绘\Angels.Mapping\Angels.Common\bin\Release\Angels.Common.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Common\bin\Release\Angels.Common.pdb
+D:\webPro\众源测绘\Angels.Mapping\Angels.Common\obj\Release\Angels.Common.csprojResolveAssemblyReference.cache
+D:\webPro\众源测绘\Angels.Mapping\Angels.Common\obj\Release\Angels.Common.dll
+D:\webPro\众源测绘\Angels.Mapping\Angels.Common\obj\Release\Angels.Common.pdb
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Common\obj\Release\Angels.Common.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Common\obj\Release\Angels.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Common\obj\Release\Angels.Common.dll
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Common\obj\Release\Angels.Common.pdb

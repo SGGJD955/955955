@@ -1,0 +1,3 @@
+D:\webPro\众源测绘\Angels.Mapping\Angels.Application.TicketEntity\obj\Release\Angels.Application.TicketEntity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\obj\Release\Angels.Application.TicketEntity.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MapDownload\WindowsService1\Angels.Application.TicketEntity\obj\Release\Angels.Application.TicketEntity.csproj.CoreCompileInputs.cache
