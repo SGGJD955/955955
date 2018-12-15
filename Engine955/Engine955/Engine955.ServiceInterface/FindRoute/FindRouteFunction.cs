@@ -8,9 +8,23 @@ namespace Engine955.ServiceInterface.FindRoute
 {
     class FindRouteFunction
     {
-        public static string FindRouteFunctionDemo(string input)
+        public static int FindRouteExecute(string input,out float length,out List<string> result,out string message, out int state)
         {
-            return "hello" + input;
+
+            
+            length = 1000;
+            state = 0;
+            message = "fail!:";
+            result = new List<string> { "zzz", "zzzz" };
+            return state;
+        }
+        public static int FindRouteSetting(string input, out float length, out List<string> result, out string message, out int state)
+        {
+            length = 1000;
+            state = 0;
+            message = "fail!:";
+            result = new List<string> { "zzz", "zzzz" };
+            return state;
         }
     }
 }

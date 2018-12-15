@@ -34,6 +34,9 @@ namespace Engine955.ServiceModel.FindRoute
     public class FindRouteDemoResponse
     {
         public string message { get; set; }
+        public int state { get; set; }
+        public float totalLength { get; set; }
 
-    }
+        public List<string> result{ get; set; }
+}
 }
